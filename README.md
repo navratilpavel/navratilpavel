@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi, my name is Pavel 👋 .
 
-<!--
-**navratilpavel/navratilpavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an accomplished explorer, a full-stack web developer with a passion ❤️ for Salesforce. Layered by outdoor, travel, adventure, and bike.
 
-Here are some ideas to get you started:
+### Skils
+| Languages | SOSL, Apex, Javascript |
+| --------- | ---------------------- |
+| DevOps    | Git, CI/CD             |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Certifications
+- Salesforce Certified Administrator
+- Salesforce Certified OmniStudio Developer
+
+### Connect with me
+- [Trailblazer Profile](https://trailblazer.me/id/navratil)
+- [Medium](https://medium.com/@navratilpavel)
+- [Linkedin](https://www.linkedin.com/in/navratilpavel/)
+- [Twitter](https://www.twitter.com/navratilpavel)
+- [Facebook](https://www.facebook.com/pavel.navratil)
+- [Personal website](https://inp.cz)
